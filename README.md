@@ -1,6 +1,6 @@
 # Kilnroom
 
-A ceramics studio site (classes and a monthly shelf), built as a Next.js app from the callmelord animation code and the Hallmark "Kiln" theme.
+A ceramics studio site (classes and a monthly shelf), built with Next.js and GSAP.
 
 ```bash
 npm install

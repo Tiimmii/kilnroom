@@ -7,7 +7,7 @@ import { gsap, ScrollTrigger, prefersReducedMotion } from "@/lib/gsap";
 
 const CLIP_VARS = ["--clip-1", "--clip-2", "--clip-3", "--clip-4"];
 
-// Multi-image loader from callmelord: the pictures are revealed one after another by clip-paths that open
+// Multi-image loader: the pictures are revealed one after another by clip-paths that open
 // from a corner, each settling from a slight zoom, then the sequence loops while the stack is on screen.
 function play(wrap) {
   const LOADER_DELAY = 0.2,
